@@ -5,3 +5,6 @@
 
 
 You cant find the ToDo List here: [Project Site](https://github.com/users/jdkx32-source/projects/1)
+
+## **Koha-Studios Discord/Support**
+- [Discord](https://dsc.gg/koha-studios)
